@@ -1,0 +1,19 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.card {
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+form input, form textarea {
+  border-radius: 5px;
+}
+
+.btn {
+  border-radius: 5px;
+}
